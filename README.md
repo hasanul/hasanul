@@ -38,7 +38,7 @@ I build scalable enterprise solutions and automated systems. Currently focusing 
 
 ### 📫 Let's Connect
 - **Location:** San Antonio, Texas 📍
-- **LinkedIn:** [linkedin.com/in/hasanul](https://linkedin.com/in/your-profile-link) 
+- **LinkedIn:** [linkedin.com/in/hasanulbanna](https://linkedin.com/in/hasanulbanna) 
 - **Role Interest:** Senior Salesforce Engineer / Architect Roles
 
 *"Code is poetry, but architecture is the foundation."*
