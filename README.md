@@ -30,12 +30,6 @@ I build scalable enterprise solutions and automated systems. Currently focusing 
 
 ---
 
-### 📊 GitHub Stats
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanul&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanul&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect
 - **Location:** San Antonio, Texas 📍
 - **LinkedIn:** [linkedin.com/in/hasanulbanna](https://linkedin.com/in/hasanulbanna) 
