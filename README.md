@@ -16,7 +16,7 @@ I build scalable enterprise solutions and automated systems. Currently focusing 
 | Category | Technologies |
 | :--- | :--- |
 | **Salesforce** | Apex, LWC, SOQL, Salesforce Flow, Platform Developer I/II |
-| **Backend** | PHP (Laravel), Python, Node.js, MySQL |
+| **Backend** | Python, Node.js, PHP, MySQL |
 | **Frontend** | JavaScript (ES6+), jQuery, HTML5, CSS3, Tailwind |
 | **DevOps/Lab** | Docker, Raspberry Pi, NginX, Apache, Git, CI/CD |
 | **Cloud** | AWS, Google Cloud, Azure |
